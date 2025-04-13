@@ -5,6 +5,7 @@
 > A desert-themed map for my [Bedwars plugin](https://github.com/esotericenderman/bedwars).
 
 ![Bedwars desert map](./assets/images/screenshots/map.png)
+![Island chest contents](./assets/images/screenshots/chest.png)
 
 ## License
 
